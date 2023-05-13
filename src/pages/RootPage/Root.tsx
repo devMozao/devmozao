@@ -9,6 +9,8 @@ import {
   IconBrandTwitter,
 } from '@tabler/icons-react'
 
+import { devmozao } from '@/assets/images'
+
 const Root: FC = (): JSX.Element => {
   const [selected, setSelected] = useState<string>('')
 
@@ -68,7 +70,7 @@ const Root: FC = (): JSX.Element => {
                 <Image
                   maw={355}
                   mah={400}
-                  src={'/public/images/devmozao.webp'}
+                  src={devmozao}
                   sx={{
                     pointerEvents: 'none',
                     userSelect: 'none',
