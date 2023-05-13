@@ -29,6 +29,7 @@
     "@emotion/react": "^11.x",
     "@mantine/core": "^6.x",
     "@mantine/hooks": "^6.x",
+    "@tabler/icons-react": "^2.18.0",
     "@tanstack/react-query": "^4.x",
     "@tanstack/react-query-devtools": "^4.x",
     "axios": "^1.x",
